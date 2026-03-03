@@ -1,58 +1,48 @@
-<h1 align="center">👋 Muzammal Hussain</h1>
+# 💫 About Me:
 
-<p align="center">
-  💻 Aspiring <b>AI Developer</b> | 🚀 Building Minimal AI Tools | 🌱 Still Learning & Gaining Experience  
-</p>
+Hi, I'm Muzammal Hussain — an AI Systems & Backend Developer focused on building practical, production-oriented AI applications.
 
----
-
-## 🔥 About Me
-- 🎯 Passionate about **AI, LLMs, and Intelligent Applications**  
-- 🌱 Currently learning: **LangChain, Groq, Hugging Face**  
-- 🛠 Focused on **building real-world, minimal & functional AI apps**  
-- 🤝 Actively seeking **internship opportunities to gain industry experience**  
+• I design and develop AI-powered applications using RAG pipelines, multi-agent systems, and modern backend architectures.  
+• I specialize in scalable AI assistants, workflow automation, and API-driven systems.  
+• My focus is on clean architecture, modular design, and deployment-ready solutions.  
+• I am actively seeking a role as a Generative AI or Backend Developer.
 
 ---
 
-## ⚡ Skills & Tools
+## 💡 Engineering Philosophy
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tailwind,html,css,docker,vscode,pycharm,linkedin" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,anaconda,github,obsidian,fastapi" />
-</p>
+> "AI is not about prompts — it's about systems."
 
----
-
-## 🚀 Featured Projects
-
-- **🎙 Echo Voice Agent** → Voice-based conversational AI with tool integration.  
-  Can act as a **voice-first calling agent** with smart context handling and external tool access.  
-
-- **📊 AI Data Analyst** → Natural language + analysis.  
-  Capable of handling **big data queries**, generating **graphs & insights**, and even **editing datasets via queries**.  
-  Ready to be scaled into a **business-ready data intelligence tool**.  
-
-- **🔍 Agentic Search Engine** → LLM-powered intelligent search platform.  
-  Goes beyond text — can **search images, research papers, and contextual web data** with reasoning capabilities.  
+Strong AI applications are built on backend structure, data flow, optimization, and reliability — not just model calls.
 
 ---
 
-## 📊 GitHub Stats  
+## 📬 Contact
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muzammaldeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammaldeveloper&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muzammaldeveloper258rb@gmail.com)
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/muzammaldeveloper"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muzammaldeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muzammal.contect@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+# 💻 Core Tech Stack
+
+### 🧠 AI & LLM Engineering
+LangChain • LangGraph • RAG Pipelines • Vector Databases  
+OpenAI API • Multi-Agent Systems
+
+### ⚙️ Backend Development
+Python • FastAPI • REST APIs • JWT Authentication  
+Flask • SQLite • MySQL • Postman
+
+### 📊 Data & ML
+NumPy • Pandas • Scikit-learn • Matplotlib  
+
+### 🚀 Dev & Deployment
+Git • Docker • API Integrations • n8n Automation
 
 ---
 
-✨ *Thanks for visiting! Let’s connect and build something amazing together.* 🚀
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=genaiwithms&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=genaiwithms&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=genaiwithms&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
